@@ -1,0 +1,30 @@
+
+
+
+@media (max-widht:768px) {
+    #intro, #team {
+        width: 90% !important;
+    }
+}
+
+
+
+@media (max-width:576) {
+    .icono-wrap {
+        flex-wrap: wrap;
+        justify-content: center !important;
+    }
+}
+
+@media (max-width:1200px) {
+    #local {
+        flex-wrap: wrap;
+        padding-top: 30px;
+    }
+
+    .wrapper {
+        width: 90%;
+        margin: auto;
+        padding-top: 50px;
+    }
+}
